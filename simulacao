@@ -1,0 +1,1190 @@
+Meu id:p2.b
+Minha mão:[ 10♠ 8♣ 7♦ 5♣ 5♥ J♠ 8♦ K♦ 9♦ 4♦ 9♠ ]
+Eu li: 10♠ 8♣ 7♦ 5♣ 5♥ J♠ 8♦ K♦ 9♦ 4♦ 9♠ 
+ordena:
+5♥ 4♦ 7♦ 8♦ 9♦ K♦ 5♣ 8♣ 9♠ 10♠ J♠ 
+LIXO:3♣
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 80
+Linha: DISCARD 3♣
+LIXO:3♣
+Linha: p2.b
+TOTAL LIXO:
+3♣ 3♣ 
+
+====== TOTAL NOSSA MESA ======:
+
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ K♦ 5♣ 8♣ 9♠ 10♠ J♠ 
+GET_STOCK
+PUXADA:A♥
+DISCARD A♥
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ K♦ 5♣ 8♣ 9♠ 10♠ J♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 78
+Linha: DISCARD 7♥
+LIXO:7♥
+Linha: p2.b
+TOTAL LIXO:
+3♣ 3♣ A♥ 7♥ 
+
+====== TOTAL NOSSA MESA ======:
+
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ K♦ 5♣ 8♣ 9♠ 10♠ J♠ 
+GET_STOCK
+PUXADA:Q♥
+DISCARD Q♥
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ K♦ 5♣ 8♣ 9♠ 10♠ J♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 76
+Linha: DISCARD A♠
+LIXO:A♠
+Linha: p2.b
+TOTAL LIXO:
+3♣ 3♣ A♥ 7♥ Q♥ A♠ 
+
+====== TOTAL NOSSA MESA ======:
+
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ K♦ 5♣ 8♣ 9♠ 10♠ J♠ 
+GET_STOCK
+PUXADA:7♣
+DISCARD K♦
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ 5♣ 7♣ 8♣ 9♠ 10♠ J♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 74
+Linha: DISCARD 4♦
+LIXO:4♦
+Linha: p2.b
+TOTAL LIXO:
+3♣ 3♣ A♥ 7♥ Q♥ A♠ K♦ 4♦ 
+
+====== TOTAL NOSSA MESA ======:
+
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ 5♣ 7♣ 8♣ 9♠ 10♠ J♠ 
+GET_STOCK
+PUXADA:Q♣
+DISCARD Q♣
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ 5♣ 7♣ 8♣ 9♠ 10♠ J♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 72
+Linha: DISCARD K♦
+LIXO:K♦
+Linha: p2.b
+TOTAL LIXO:
+3♣ 3♣ A♥ 7♥ Q♥ A♠ K♦ 4♦ Q♣ K♦ 
+
+====== TOTAL NOSSA MESA ======:
+
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ 5♣ 7♣ 8♣ 9♠ 10♠ J♠ 
+GET_STOCK
+PUXADA:6♠
+DISCARD 6♠
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ 5♣ 7♣ 8♣ 9♠ 10♠ J♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 70
+Linha: DISCARD 2♥
+LIXO:2♥
+Linha: p2.b
+TOTAL LIXO:
+3♣ 3♣ A♥ 7♥ Q♥ A♠ K♦ 4♦ Q♣ K♦ 6♠ 2♥ 
+
+====== TOTAL NOSSA MESA ======:
+
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ 5♣ 7♣ 8♣ 9♠ 10♠ J♠ 
+GET_STOCK
+PUXADA:2♠
+DISCARD 2♠
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ 5♣ 7♣ 8♣ 9♠ 10♠ J♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 68
+Linha: DISCARD 10♣
+LIXO:10♣
+Linha: p2.b
+TOTAL LIXO:
+3♣ 3♣ A♥ 7♥ Q♥ A♠ K♦ 4♦ Q♣ K♦ 6♠ 2♥ 2♠ 10♣ 
+
+====== TOTAL NOSSA MESA ======:
+
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ 5♣ 7♣ 8♣ 9♠ 10♠ J♠ 
+GET_STOCK
+PUXADA:5♣
+DISCARD 5♣
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ 5♣ 7♣ 8♣ 9♠ 10♠ J♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 66
+Linha: DISCARD J♦
+LIXO:J♦
+Linha: p2.b
+TOTAL LIXO:
+3♣ 3♣ A♥ 7♥ Q♥ A♠ K♦ 4♦ Q♣ K♦ 6♠ 2♥ 2♠ 10♣ 5♣ J♦ 
+
+====== TOTAL NOSSA MESA ======:
+
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ 5♣ 7♣ 8♣ 9♠ 10♠ J♠ 
+GET_STOCK
+PUXADA:3♦
+DISCARD 3♦
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ 5♣ 7♣ 8♣ 9♠ 10♠ J♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 64
+Linha: DISCARD K♥
+LIXO:K♥
+Linha: p2.b
+TOTAL LIXO:
+3♣ 3♣ A♥ 7♥ Q♥ A♠ K♦ 4♦ Q♣ K♦ 6♠ 2♥ 2♠ 10♣ 5♣ J♦ 3♦ K♥ 
+
+====== TOTAL NOSSA MESA ======:
+
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ 5♣ 7♣ 8♣ 9♠ 10♠ J♠ 
+GET_STOCK
+PUXADA:4♠
+DISCARD 4♠
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ 5♣ 7♣ 8♣ 9♠ 10♠ J♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 62
+Linha: DISCARD K♠
+LIXO:K♠
+Linha: p2.b
+TOTAL LIXO:
+3♣ 3♣ A♥ 7♥ Q♥ A♠ K♦ 4♦ Q♣ K♦ 6♠ 2♥ 2♠ 10♣ 5♣ J♦ 3♦ K♥ 4♠ K♠ 
+
+====== TOTAL NOSSA MESA ======:
+
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ 5♣ 7♣ 8♣ 9♠ 10♠ J♠ 
+GET_STOCK
+PUXADA:J♣
+DISCARD J♣
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ 5♣ 7♣ 8♣ 9♠ 10♠ J♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 60
+Linha: DISCARD K♣
+LIXO:K♣
+Linha: p2.b
+TOTAL LIXO:
+3♣ 3♣ A♥ 7♥ Q♥ A♠ K♦ 4♦ Q♣ K♦ 6♠ 2♥ 2♠ 10♣ 5♣ J♦ 3♦ K♥ 4♠ K♠ J♣ K♣ 
+
+====== TOTAL NOSSA MESA ======:
+
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ 5♣ 7♣ 8♣ 9♠ 10♠ J♠ 
+GET_STOCK
+PUXADA:8♦
+DISCARD 8♦
+MÃO: 5♥ 4♦ 7♦ 8♦ 9♦ 5♣ 7♣ 8♣ 9♠ 10♠ J♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 58
+Linha: DISCARD 8♠
+LIXO:8♠
+Linha: p2.b
+TOTAL LIXO:
+3♣ 3♣ A♥ 7♥ Q♥ A♠ K♦ 4♦ Q♣ K♦ 6♠ 2♥ 2♠ 10♣ 5♣ J♦ 3♦ K♥ 4♠ K♠ J♣ K♣ 8♦ 8♠ 
+
+GET_DISCARD [ 9♠ 10♠ ]
+NOSSA MESA:8♠
+NOSSA MESA:9♠
+NOSSA MESA:10♠
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ 
+
+MÃO: 2♥ 5♥ 7♥ Q♥ K♥ A♥ 3♦ 4♦ 4♦ 7♦ 8♦ 8♦ 9♦ J♦ K♦ K♦ 3♣ 3♣ 5♣ 5♣ 7♣ 8♣ 10♣ J♣ Q♣ K♣ 2♠ 4♠ 6♠ J♠ K♠ A♠ 
+MELD_NEW [ Q♥ K♥ A♥ ]
+NOSSA MESA:Q♥
+NOSSA MESA:K♥
+NOSSA MESA:A♥
+MELD_JOIN 0 [ J♠ ]
+----(3) CARTAS MELD JOIN Z: 1
+DISCARD A♠
+MÃO: 2♥ 5♥ 7♥ 3♦ 4♦ 4♦ 7♦ 8♦ 8♦ 9♦ J♦ K♦ K♦ 3♣ 3♣ 5♣ 5♣ 7♣ 8♣ 10♣ J♣ Q♣ K♣ 2♠ 4♠ 6♠ K♠ 
+Linha: [ 3♣ 3♣ A♥ 7♥ Q♥ A♠ K♦ 4♦ Q♣ K♦ 6♠ 2♥ 2♠ 10♣ 5♣ J♦ 3♦ K♥ 4♠ K♠ J♣ K♣ 8♦ ]
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 57
+Linha: DISCARD 10♠
+LIXO:10♠
+Linha: p2.b
+TOTAL LIXO:
+A♠ 10♠ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+
+MÃO: 2♥ 5♥ 7♥ 3♦ 4♦ 4♦ 7♦ 8♦ 8♦ 9♦ J♦ K♦ K♦ 3♣ 3♣ 5♣ 5♣ 7♣ 8♣ 10♣ J♣ Q♣ K♣ 2♠ 4♠ 6♠ K♠ 
+GET_STOCK
+PUXADA:9♣
+DISCARD K♠
+MÃO: 2♥ 5♥ 7♥ 3♦ 4♦ 4♦ 7♦ 8♦ 8♦ 9♦ J♦ K♦ K♦ 3♣ 3♣ 5♣ 5♣ 7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ 2♠ 4♠ 6♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 55
+Linha: DISCARD 4♥
+LIXO:4♥
+Linha: p2.b
+TOTAL LIXO:
+A♠ 10♠ K♠ 4♥ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+
+MÃO: 2♥ 5♥ 7♥ 3♦ 4♦ 4♦ 7♦ 8♦ 8♦ 9♦ J♦ K♦ K♦ 3♣ 3♣ 5♣ 5♣ 7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ 2♠ 4♠ 6♠ 
+GET_STOCK
+PUXADA:7♦
+DISCARD K♣
+MÃO: 2♥ 5♥ 7♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ J♦ K♦ K♦ 3♣ 3♣ 5♣ 5♣ 7♣ 8♣ 9♣ 10♣ J♣ Q♣ 2♠ 4♠ 6♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 53
+Linha: DISCARD 8♥
+LIXO:8♥
+Linha: p2.b
+TOTAL LIXO:
+A♠ 10♠ K♠ 4♥ K♣ 8♥ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+
+MÃO: 2♥ 5♥ 7♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ J♦ K♦ K♦ 3♣ 3♣ 5♣ 5♣ 7♣ 8♣ 9♣ 10♣ J♣ Q♣ 2♠ 4♠ 6♠ 
+GET_STOCK
+PUXADA:4♣
+DISCARD K♦
+MÃO: 2♥ 5♥ 7♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ J♦ K♦ 3♣ 3♣ 4♣ 5♣ 5♣ 7♣ 8♣ 9♣ 10♣ J♣ Q♣ 2♠ 4♠ 6♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 51
+Linha: DISCARD 4♣
+LIXO:4♣
+Linha: p2.b
+TOTAL LIXO:
+A♠ 10♠ K♠ 4♥ K♣ 8♥ K♦ 4♣ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+
+MÃO: 2♥ 5♥ 7♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ J♦ K♦ 3♣ 3♣ 4♣ 5♣ 5♣ 7♣ 8♣ 9♣ 10♣ J♣ Q♣ 2♠ 4♠ 6♠ 
+GET_STOCK
+PUXADA:9♦
+DISCARD K♦
+MÃO: 2♥ 5♥ 7♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ 9♦ J♦ 3♣ 3♣ 4♣ 5♣ 5♣ 7♣ 8♣ 9♣ 10♣ J♣ Q♣ 2♠ 4♠ 6♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 49
+Linha: DISCARD 7♠
+LIXO:7♠
+Linha: p2.b
+TOTAL LIXO:
+A♠ 10♠ K♠ 4♥ K♣ 8♥ K♦ 4♣ K♦ 7♠ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+
+MÃO: 2♥ 5♥ 7♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ 9♦ J♦ 3♣ 3♣ 4♣ 5♣ 5♣ 7♣ 8♣ 9♣ 10♣ J♣ Q♣ 2♠ 4♠ 6♠ 
+GET_STOCK
+PUXADA:7♠
+DISCARD 7♠
+MÃO: 2♥ 5♥ 7♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ 9♦ J♦ 3♣ 3♣ 4♣ 5♣ 5♣ 7♣ 8♣ 9♣ 10♣ J♣ Q♣ 2♠ 4♠ 6♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 47
+Linha: DISCARD 3♠
+LIXO:3♠
+Linha: p2.b
+TOTAL LIXO:
+A♠ 10♠ K♠ 4♥ K♣ 8♥ K♦ 4♣ K♦ 7♠ 7♠ 3♠ 
+
+GET_DISCARD [ 2♠ 4♠ ]
+NOSSA MESA:2♠
+NOSSA MESA:3♠
+NOSSA MESA:4♠
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+2♠ 3♠ 4♠ 
+
+MÃO: 2♥ 4♥ 5♥ 7♥ 8♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ 9♦ J♦ K♦ K♦ 3♣ 3♣ 4♣ 4♣ 5♣ 5♣ 7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ 6♠ 7♠ 7♠ 10♠ K♠ A♠ 
+MELD_NEW [ 7♣ 8♣ 9♣ ]
+NOSSA MESA:7♣
+NOSSA MESA:8♣
+NOSSA MESA:9♣
+MELD_JOIN 3 [ 10♣ ]
+MELD_JOIN 3 [ J♣ ]
+MELD_JOIN 3 [ Q♣ ]
+MELD_JOIN 3 [ K♣ ]
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+MELD_JOIN 2 [ A♠ ]
+DISCARD K♠
+MÃO: 2♥ 4♥ 5♥ 7♥ 8♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ 9♦ J♦ K♦ K♦ 3♣ 3♣ 4♣ 4♣ 5♣ 5♣ 6♠ 7♠ 7♠ 10♠ 
+Linha: [ A♠ 10♠ K♠ 4♥ K♣ 8♥ K♦ 4♣ K♦ 7♠ 7♠ ]
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 46
+Linha: DISCARD A♥
+LIXO:A♥
+Linha: p2.b
+TOTAL LIXO:
+K♠ A♥ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ 
+
+MÃO: 2♥ 4♥ 5♥ 7♥ 8♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ 9♦ J♦ K♦ K♦ 3♣ 3♣ 4♣ 4♣ 5♣ 5♣ 6♠ 7♠ 7♠ 10♠ 
+GET_STOCK
+PUXADA:J♥
+DISCARD J♥
+MÃO: 2♥ 4♥ 5♥ 7♥ 8♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ 9♦ J♦ K♦ K♦ 3♣ 3♣ 4♣ 4♣ 5♣ 5♣ 6♠ 7♠ 7♠ 10♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 44
+Linha: DISCARD A♣
+LIXO:A♣
+Linha: p2.b
+TOTAL LIXO:
+K♠ A♥ J♥ A♣ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ 
+
+MÃO: 2♥ 4♥ 5♥ 7♥ 8♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ 9♦ J♦ K♦ K♦ 3♣ 3♣ 4♣ 4♣ 5♣ 5♣ 6♠ 7♠ 7♠ 10♠ 
+GET_STOCK
+PUXADA:9♣
+DISCARD 9♣
+MÃO: 2♥ 4♥ 5♥ 7♥ 8♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ 9♦ J♦ K♦ K♦ 3♣ 3♣ 4♣ 4♣ 5♣ 5♣ 6♠ 7♠ 7♠ 10♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 42
+Linha: DISCARD K♣
+LIXO:K♣
+Linha: p2.b
+TOTAL LIXO:
+K♠ A♥ J♥ A♣ 9♣ K♣ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ 
+
+MÃO: 2♥ 4♥ 5♥ 7♥ 8♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ 9♦ J♦ K♦ K♦ 3♣ 3♣ 4♣ 4♣ 5♣ 5♣ 6♠ 7♠ 7♠ 10♠ 
+GET_STOCK
+PUXADA:K♥
+DISCARD K♥
+MÃO: 2♥ 4♥ 5♥ 7♥ 8♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ 9♦ J♦ K♦ K♦ 3♣ 3♣ 4♣ 4♣ 5♣ 5♣ 6♠ 7♠ 7♠ 10♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 40
+Linha: DISCARD J♥
+LIXO:J♥
+Linha: p2.b
+TOTAL LIXO:
+K♠ A♥ J♥ A♣ 9♣ K♣ K♥ J♥ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ 
+
+MÃO: 2♥ 4♥ 5♥ 7♥ 8♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ 9♦ J♦ K♦ K♦ 3♣ 3♣ 4♣ 4♣ 5♣ 5♣ 6♠ 7♠ 7♠ 10♠ 
+GET_STOCK
+PUXADA:A♦
+DISCARD A♦
+MÃO: 2♥ 4♥ 5♥ 7♥ 8♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ 9♦ J♦ K♦ K♦ 3♣ 3♣ 4♣ 4♣ 5♣ 5♣ 6♠ 7♠ 7♠ 10♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 38
+Linha: DISCARD 2♥
+LIXO:2♥
+Linha: p2.b
+TOTAL LIXO:
+K♠ A♥ J♥ A♣ 9♣ K♣ K♥ J♥ A♦ 2♥ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ 
+
+MÃO: 2♥ 4♥ 5♥ 7♥ 8♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ 9♦ J♦ K♦ K♦ 3♣ 3♣ 4♣ 4♣ 5♣ 5♣ 6♠ 7♠ 7♠ 10♠ 
+GET_STOCK
+PUXADA:10♦
+DISCARD K♦
+MÃO: 2♥ 4♥ 5♥ 7♥ 8♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ 9♦ 10♦ J♦ K♦ 3♣ 3♣ 4♣ 4♣ 5♣ 5♣ 6♠ 7♠ 7♠ 10♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 36
+Linha: DISCARD 6♣
+LIXO:6♣
+Linha: p2.b
+TOTAL LIXO:
+K♠ A♥ J♥ A♣ 9♣ K♣ K♥ J♥ A♦ 2♥ K♦ 6♣ 
+
+GET_DISCARD [ 4♣ 5♣ ]
+NOSSA MESA:4♣
+NOSSA MESA:5♣
+NOSSA MESA:6♣
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ 
+4♣ 5♣ 6♣ 
+
+MÃO: 2♥ 2♥ 4♥ 5♥ 7♥ 8♥ J♥ J♥ K♥ A♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ 9♦ 10♦ J♦ K♦ K♦ A♦ 3♣ 3♣ 4♣ 5♣ 9♣ K♣ A♣ 6♠ 7♠ 7♠ 10♠ K♠ 
+MELD_NEW [ 9♦ 10♦ J♦ ]
+NOSSA MESA:9♦
+NOSSA MESA:10♦
+NOSSA MESA:J♦
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+MELD_JOIN 3 [ A♣ ]
+DISCARD A♦
+MÃO: 2♥ 2♥ 4♥ 5♥ 7♥ 8♥ J♥ J♥ K♥ A♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ K♦ 3♣ 3♣ 4♣ 5♣ 9♣ K♣ 6♠ 7♠ 7♠ 10♠ K♠ 
+Linha: [ K♠ A♥ J♥ A♣ 9♣ K♣ K♥ J♥ A♦ 2♥ K♦ ]
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 35
+Linha: DISCARD A♦
+LIXO:A♦
+Linha: p2.b
+TOTAL LIXO:
+A♦ A♦ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 
+9♦ 10♦ J♦ 
+
+MÃO: 2♥ 2♥ 4♥ 5♥ 7♥ 8♥ J♥ J♥ K♥ A♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ K♦ 3♣ 3♣ 4♣ 5♣ 9♣ K♣ 6♠ 7♠ 7♠ 10♠ K♠ 
+GET_STOCK
+PUXADA:J♠
+----(3) CARTAS MELD JOIN Z: 1
+DISCARD J♠
+MÃO: 2♥ 2♥ 4♥ 5♥ 7♥ 8♥ J♥ J♥ K♥ A♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ K♦ 3♣ 3♣ 4♣ 5♣ 9♣ K♣ 6♠ 7♠ 7♠ 10♠ K♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 33
+Linha: DISCARD K♠
+LIXO:K♠
+Linha: p2.b
+TOTAL LIXO:
+A♦ A♦ J♠ K♠ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 
+9♦ 10♦ J♦ 
+
+MÃO: 2♥ 2♥ 4♥ 5♥ 7♥ 8♥ J♥ J♥ K♥ A♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ K♦ 3♣ 3♣ 4♣ 5♣ 9♣ K♣ 6♠ 7♠ 7♠ 10♠ K♠ 
+GET_STOCK
+PUXADA:Q♦
+----(3) CARTAS MELD JOIN Z: 1
+DISCARD Q♦
+MÃO: 2♥ 2♥ 4♥ 5♥ 7♥ 8♥ J♥ J♥ K♥ A♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ K♦ 3♣ 3♣ 4♣ 5♣ 9♣ K♣ 6♠ 7♠ 7♠ 10♠ K♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 31
+Linha: DISCARD 3♦
+LIXO:3♦
+Linha: p2.b
+TOTAL LIXO:
+A♦ A♦ J♠ K♠ Q♦ 3♦ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 
+9♦ 10♦ J♦ 
+
+MÃO: 2♥ 2♥ 4♥ 5♥ 7♥ 8♥ J♥ J♥ K♥ A♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ K♦ 3♣ 3♣ 4♣ 5♣ 9♣ K♣ 6♠ 7♠ 7♠ 10♠ K♠ 
+GET_STOCK
+PUXADA:10♣
+----(3) CARTAS MELD JOIN Z: 1
+DISCARD 10♣
+MÃO: 2♥ 2♥ 4♥ 5♥ 7♥ 8♥ J♥ J♥ K♥ A♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ K♦ 3♣ 3♣ 4♣ 5♣ 9♣ K♣ 6♠ 7♠ 7♠ 10♠ K♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 29
+Linha: DISCARD 4♥
+LIXO:4♥
+Linha: p2.b
+TOTAL LIXO:
+A♦ A♦ J♠ K♠ Q♦ 3♦ 10♣ 4♥ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 
+9♦ 10♦ J♦ 
+
+MÃO: 2♥ 2♥ 4♥ 5♥ 7♥ 8♥ J♥ J♥ K♥ A♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ K♦ 3♣ 3♣ 4♣ 5♣ 9♣ K♣ 6♠ 7♠ 7♠ 10♠ K♠ 
+GET_STOCK
+PUXADA:J♣
+----(3) CARTAS MELD JOIN Z: 1
+DISCARD J♣
+MÃO: 2♥ 2♥ 4♥ 5♥ 7♥ 8♥ J♥ J♥ K♥ A♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ K♦ 3♣ 3♣ 4♣ 5♣ 9♣ K♣ 6♠ 7♠ 7♠ 10♠ K♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 27
+Linha: DISCARD 9♠
+LIXO:9♠
+Linha: p2.b
+TOTAL LIXO:
+A♦ A♦ J♠ K♠ Q♦ 3♦ 10♣ 4♥ J♣ 9♠ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 
+9♦ 10♦ J♦ 
+
+MÃO: 2♥ 2♥ 4♥ 5♥ 7♥ 8♥ J♥ J♥ K♥ A♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ K♦ 3♣ 3♣ 4♣ 5♣ 9♣ K♣ 6♠ 7♠ 7♠ 10♠ K♠ 
+GET_STOCK
+PUXADA:J♦
+----(3) CARTAS MELD JOIN Z: 1
+DISCARD J♦
+MÃO: 2♥ 2♥ 4♥ 5♥ 7♥ 8♥ J♥ J♥ K♥ A♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ K♦ 3♣ 3♣ 4♣ 5♣ 9♣ K♣ 6♠ 7♠ 7♠ 10♠ K♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 25
+Linha: DISCARD 8♣
+LIXO:8♣
+Linha: p2.b
+TOTAL LIXO:
+A♦ A♦ J♠ K♠ Q♦ 3♦ 10♣ 4♥ J♣ 9♠ J♦ 8♣ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 
+9♦ 10♦ J♦ 
+
+MÃO: 2♥ 2♥ 4♥ 5♥ 7♥ 8♥ J♥ J♥ K♥ A♥ 3♦ 4♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ K♦ 3♣ 3♣ 4♣ 5♣ 9♣ K♣ 6♠ 7♠ 7♠ 10♠ K♠ 
+GET_STOCK
+PUXADA:5♦
+----(3) CARTAS MELD JOIN Z: 1
+DISCARD A♥
+MÃO: 2♥ 2♥ 4♥ 5♥ 7♥ 8♥ J♥ J♥ K♥ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ K♦ 3♣ 3♣ 4♣ 5♣ 9♣ K♣ 6♠ 7♠ 7♠ 10♠ K♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 23
+Linha: DISCARD 3♠
+LIXO:3♠
+Linha: p2.b
+TOTAL LIXO:
+A♦ A♦ J♠ K♠ Q♦ 3♦ 10♣ 4♥ J♣ 9♠ J♦ 8♣ A♥ 3♠ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 
+9♦ 10♦ J♦ 
+
+MÃO: 2♥ 2♥ 4♥ 5♥ 7♥ 8♥ J♥ J♥ K♥ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ K♦ 3♣ 3♣ 4♣ 5♣ 9♣ K♣ 6♠ 7♠ 7♠ 10♠ K♠ 
+GET_STOCK
+PUXADA:10♥
+DISCARD 10♥
+MÃO: 2♥ 2♥ 4♥ 5♥ 7♥ 8♥ J♥ J♥ K♥ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ K♦ 3♣ 3♣ 4♣ 5♣ 9♣ K♣ 6♠ 7♠ 7♠ 10♠ K♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 21
+Linha: DISCARD 2♣
+LIXO:2♣
+Linha: p2.b
+TOTAL LIXO:
+A♦ A♦ J♠ K♠ Q♦ 3♦ 10♣ 4♥ J♣ 9♠ J♦ 8♣ A♥ 3♠ 10♥ 2♣ 
+
+GET_DISCARD [ 3♣ 4♣ ]
+NOSSA MESA:2♣
+NOSSA MESA:3♣
+NOSSA MESA:4♣
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 
+9♦ 10♦ J♦ 
+2♣ 3♣ 4♣ 
+
+MÃO: 2♥ 2♥ 4♥ 4♥ 5♥ 7♥ 8♥ 10♥ J♥ J♥ K♥ A♥ 3♦ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ J♦ Q♦ K♦ K♦ A♦ A♦ 3♣ 5♣ 8♣ 9♣ 10♣ J♣ K♣ 3♠ 6♠ 7♠ 7♠ 9♠ 10♠ J♠ K♠ K♠ 
+MELD_NEW [ J♦ Q♦ K♦ ]
+NOSSA MESA:J♦
+NOSSA MESA:Q♦
+NOSSA MESA:K♦
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+MELD_JOIN 7 [ A♦ ]
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+MELD_JOIN 6 [ 5♣ ]
+DISCARD A♦
+MÃO: 2♥ 2♥ 4♥ 4♥ 5♥ 7♥ 8♥ 10♥ J♥ J♥ K♥ A♥ 3♦ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ 3♣ 8♣ 9♣ 10♣ J♣ K♣ 3♠ 6♠ 7♠ 7♠ 9♠ 10♠ J♠ K♠ K♠ 
+Linha: [ A♦ A♦ J♠ K♠ Q♦ 3♦ 10♣ 4♥ J♣ 9♠ J♦ 8♣ A♥ 3♠ 10♥ ]
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 20
+Linha: DISCARD 7♥
+LIXO:7♥
+Linha: p2.b
+TOTAL LIXO:
+A♦ 7♥ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 
+9♦ 10♦ J♦ 
+2♣ 3♣ 4♣ 5♣ 
+J♦ Q♦ K♦ A♦ 
+
+MÃO: 2♥ 2♥ 4♥ 4♥ 5♥ 7♥ 8♥ 10♥ J♥ J♥ K♥ A♥ 3♦ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ 3♣ 8♣ 9♣ 10♣ J♣ K♣ 3♠ 6♠ 7♠ 7♠ 9♠ 10♠ J♠ K♠ K♠ 
+GET_STOCK
+PUXADA:6♥
+----(3) CARTAS MELD JOIN Z: 1
+DISCARD A♥
+MÃO: 2♥ 2♥ 4♥ 4♥ 5♥ 6♥ 7♥ 8♥ 10♥ J♥ J♥ K♥ 3♦ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ 3♣ 8♣ 9♣ 10♣ J♣ K♣ 3♠ 6♠ 7♠ 7♠ 9♠ 10♠ J♠ K♠ K♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 18
+Linha: DISCARD Q♠
+LIXO:Q♠
+Linha: p2.b
+TOTAL LIXO:
+A♦ 7♥ A♥ Q♠ 
+
+GET_DISCARD [ 10♠ J♠ ]
+NOSSA MESA:10♠
+NOSSA MESA:J♠
+NOSSA MESA:Q♠
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 
+9♦ 10♦ J♦ 
+2♣ 3♣ 4♣ 5♣ 
+J♦ Q♦ K♦ A♦ 
+10♠ J♠ Q♠ 
+
+MÃO: 2♥ 2♥ 4♥ 4♥ 5♥ 6♥ 7♥ 7♥ 8♥ 10♥ J♥ J♥ K♥ A♥ 3♦ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ A♦ 3♣ 8♣ 9♣ 10♣ J♣ K♣ 3♠ 6♠ 7♠ 7♠ 9♠ K♠ K♠ 
+MELD_NEW [ 4♥ 5♥ 6♥ ]
+NOSSA MESA:4♥
+NOSSA MESA:5♥
+NOSSA MESA:6♥
+MELD_JOIN 9 [ 7♥ ]
+MELD_JOIN 9 [ 8♥ ]
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+MELD_JOIN 8 [ K♠ ]
+DISCARD A♦
+MÃO: 2♥ 2♥ 4♥ 7♥ 10♥ J♥ J♥ K♥ A♥ 3♦ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ 3♣ 8♣ 9♣ 10♣ J♣ K♣ 3♠ 6♠ 7♠ 7♠ 9♠ K♠ 
+Linha: [ A♦ 7♥ A♥ ]
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 17
+Linha: DISCARD 5♠
+LIXO:5♠
+Linha: p2.b
+TOTAL LIXO:
+A♦ 5♠ 
+
+GET_DISCARD [ 6♠ 7♠ ]
+NOSSA MESA:5♠
+NOSSA MESA:6♠
+NOSSA MESA:7♠
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 
+9♦ 10♦ J♦ 
+2♣ 3♣ 4♣ 5♣ 
+J♦ Q♦ K♦ A♦ 
+10♠ J♠ Q♠ K♠ 
+4♥ 5♥ 6♥ 7♥ 8♥ 
+5♠ 6♠ 7♠ 
+
+MÃO: 2♥ 2♥ 4♥ 7♥ 10♥ J♥ J♥ K♥ A♥ 3♦ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ A♦ 3♣ 8♣ 9♣ 10♣ J♣ K♣ 3♠ 7♠ 9♠ K♠ 
+MELD_NEW [ 8♣ 9♣ 10♣ ]
+NOSSA MESA:8♣
+NOSSA MESA:9♣
+NOSSA MESA:10♣
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+MELD_JOIN 11 [ J♣ ]
+DISCARD A♦
+MÃO: 2♥ 2♥ 4♥ 7♥ 10♥ J♥ J♥ K♥ A♥ 3♦ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ 3♣ K♣ 3♠ 7♠ 9♠ K♠ 
+Linha: [ A♦ ]
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 16
+Linha: DISCARD Q♥
+LIXO:Q♥
+Linha: p2.b
+TOTAL LIXO:
+A♦ Q♥ 
+
+GET_DISCARD [ 10♥ J♥ ]
+NOSSA MESA:10♥
+NOSSA MESA:J♥
+NOSSA MESA:Q♥
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 
+9♦ 10♦ J♦ 
+2♣ 3♣ 4♣ 5♣ 
+J♦ Q♦ K♦ A♦ 
+10♠ J♠ Q♠ K♠ 
+4♥ 5♥ 6♥ 7♥ 8♥ 
+5♠ 6♠ 7♠ 
+8♣ 9♣ 10♣ J♣ 
+10♥ J♥ Q♥ 
+
+MÃO: 2♥ 2♥ 4♥ 7♥ J♥ K♥ A♥ 3♦ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ A♦ 3♣ K♣ 3♠ 7♠ 9♠ K♠ 
+MELD_JOIN 12 [ K♥ ]
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+MELD_JOIN 12 [ A♥ ]
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+DISCARD A♦
+MÃO: 2♥ 2♥ 4♥ 7♥ J♥ 3♦ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ 3♣ K♣ 3♠ 7♠ 9♠ K♠ 
+Linha: [ A♦ ]
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 15
+Linha: DISCARD 7♣
+LIXO:7♣
+Linha: p2.b
+TOTAL LIXO:
+A♦ 7♣ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 
+9♦ 10♦ J♦ 
+2♣ 3♣ 4♣ 5♣ 
+J♦ Q♦ K♦ A♦ 
+10♠ J♠ Q♠ K♠ 
+4♥ 5♥ 6♥ 7♥ 8♥ 
+5♠ 6♠ 7♠ 
+8♣ 9♣ 10♣ J♣ 
+10♥ J♥ Q♥ K♥ A♥ 
+
+MÃO: 2♥ 2♥ 4♥ 7♥ J♥ 3♦ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ 3♣ K♣ 3♠ 7♠ 9♠ K♠ 
+GET_STOCK
+PUXADA:A♠
+DISCARD A♠
+MÃO: 2♥ 2♥ 4♥ 7♥ J♥ 3♦ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ 3♣ K♣ 3♠ 7♠ 9♠ K♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 13
+Linha: DISCARD 2♠
+LIXO:2♠
+Linha: p2.b
+TOTAL LIXO:
+A♦ 7♣ A♠ 2♠ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 
+9♦ 10♦ J♦ 
+2♣ 3♣ 4♣ 5♣ 
+J♦ Q♦ K♦ A♦ 
+10♠ J♠ Q♠ K♠ 
+4♥ 5♥ 6♥ 7♥ 8♥ 
+5♠ 6♠ 7♠ 
+8♣ 9♣ 10♣ J♣ 
+10♥ J♥ Q♥ K♥ A♥ 
+
+MÃO: 2♥ 2♥ 4♥ 7♥ J♥ 3♦ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ 3♣ K♣ 3♠ 7♠ 9♠ K♠ 
+GET_STOCK
+PUXADA:6♥
+DISCARD 6♥
+MÃO: 2♥ 2♥ 4♥ 7♥ J♥ 3♦ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ 3♣ K♣ 3♠ 7♠ 9♠ K♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 11
+Linha: DISCARD 3♥
+LIXO:3♥
+Linha: p2.b
+TOTAL LIXO:
+A♦ 7♣ A♠ 2♠ 6♥ 3♥ 
+
+GET_DISCARD [ 2♥ 4♥ ]
+NOSSA MESA:2♥
+NOSSA MESA:3♥
+NOSSA MESA:4♥
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 
+9♦ 10♦ J♦ 
+2♣ 3♣ 4♣ 5♣ 
+J♦ Q♦ K♦ A♦ 
+10♠ J♠ Q♠ K♠ 
+4♥ 5♥ 6♥ 7♥ 8♥ 
+5♠ 6♠ 7♠ 
+8♣ 9♣ 10♣ J♣ 
+10♥ J♥ Q♥ K♥ A♥ 
+2♥ 3♥ 4♥ 
+
+MÃO: 2♥ 6♥ 7♥ J♥ 3♦ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ A♦ 3♣ 7♣ K♣ 2♠ 3♠ 7♠ 9♠ K♠ A♠ 
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+MELD_JOIN 4 [ 7♣ ]
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+MELD_JOIN 8 [ A♠ ]
+DISCARD A♦
+MÃO: 2♥ 6♥ 7♥ J♥ 3♦ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ 3♣ K♣ 2♠ 3♠ 7♠ 9♠ K♠ 
+Linha: [ A♦ 7♣ A♠ 2♠ 6♥ ]
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 10
+Linha: DISCARD 6♠
+LIXO:6♠
+Linha: p2.b
+TOTAL LIXO:
+A♦ 6♠ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 7♣ 
+9♦ 10♦ J♦ 
+2♣ 3♣ 4♣ 5♣ 
+J♦ Q♦ K♦ A♦ 
+10♠ J♠ Q♠ K♠ A♠ 
+4♥ 5♥ 6♥ 7♥ 8♥ 
+5♠ 6♠ 7♠ 
+8♣ 9♣ 10♣ J♣ 
+10♥ J♥ Q♥ K♥ A♥ 
+2♥ 3♥ 4♥ 
+
+MÃO: 2♥ 6♥ 7♥ J♥ 3♦ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ 3♣ K♣ 2♠ 3♠ 7♠ 9♠ K♠ 
+GET_STOCK
+PUXADA:6♣
+DISCARD 6♣
+MÃO: 2♥ 6♥ 7♥ J♥ 3♦ 3♦ 4♦ 4♦ 5♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ 3♣ K♣ 2♠ 3♠ 7♠ 9♠ K♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 8
+Linha: DISCARD 6♦
+LIXO:6♦
+Linha: p2.b
+TOTAL LIXO:
+A♦ 6♠ 6♣ 6♦ 
+
+GET_DISCARD [ 4♦ 5♦ ]
+NOSSA MESA:4♦
+NOSSA MESA:5♦
+NOSSA MESA:6♦
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 7♣ 
+9♦ 10♦ J♦ 
+2♣ 3♣ 4♣ 5♣ 
+J♦ Q♦ K♦ A♦ 
+10♠ J♠ Q♠ K♠ A♠ 
+4♥ 5♥ 6♥ 7♥ 8♥ 
+5♠ 6♠ 7♠ 
+8♣ 9♣ 10♣ J♣ 
+10♥ J♥ Q♥ K♥ A♥ 
+2♥ 3♥ 4♥ 
+4♦ 5♦ 6♦ 
+
+MÃO: 2♥ 6♥ 7♥ J♥ 3♦ 3♦ 4♦ 7♦ 7♦ 8♦ 8♦ 9♦ K♦ A♦ 3♣ 6♣ K♣ 2♠ 3♠ 6♠ 7♠ 9♠ K♠ 
+MELD_JOIN 14 [ 7♦ ]
+MELD_JOIN 14 [ 8♦ ]
+MELD_JOIN 14 [ 9♦ ]
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+MELD_JOIN 6 [ 6♣ ]
+DISCARD A♦
+MÃO: 2♥ 6♥ 7♥ J♥ 3♦ 3♦ 4♦ 7♦ 8♦ K♦ 3♣ K♣ 2♠ 3♠ 6♠ 7♠ 9♠ K♠ 
+Linha: [ A♦ 6♠ 6♣ ]
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 7
+Linha: DISCARD 4♠
+LIXO:4♠
+Linha: p2.b
+TOTAL LIXO:
+A♦ 4♠ 
+
+GET_DISCARD [ 2♠ 3♠ ]
+NOSSA MESA:2♠
+NOSSA MESA:3♠
+NOSSA MESA:4♠
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 7♣ 
+9♦ 10♦ J♦ 
+2♣ 3♣ 4♣ 5♣ 6♣ 
+J♦ Q♦ K♦ A♦ 
+10♠ J♠ Q♠ K♠ A♠ 
+4♥ 5♥ 6♥ 7♥ 8♥ 
+5♠ 6♠ 7♠ 
+8♣ 9♣ 10♣ J♣ 
+10♥ J♥ Q♥ K♥ A♥ 
+2♥ 3♥ 4♥ 
+4♦ 5♦ 6♦ 7♦ 8♦ 9♦ 
+2♠ 3♠ 4♠ 
+
+MÃO: 2♥ 6♥ 7♥ J♥ 3♦ 3♦ 4♦ 7♦ 8♦ K♦ A♦ 3♣ K♣ 6♠ 7♠ 9♠ K♠ 
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+DISCARD A♦
+MÃO: 2♥ 6♥ 7♥ J♥ 3♦ 3♦ 4♦ 7♦ 8♦ K♦ 3♣ K♣ 6♠ 7♠ 9♠ K♠ 
+Linha: [ A♦ ]
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 6
+Linha: DISCARD 8♥
+LIXO:8♥
+Linha: p2.b
+TOTAL LIXO:
+A♦ 8♥ 
+
+GET_DISCARD [ 6♥ 7♥ ]
+NOSSA MESA:6♥
+NOSSA MESA:7♥
+NOSSA MESA:8♥
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 7♣ 
+9♦ 10♦ J♦ 
+2♣ 3♣ 4♣ 5♣ 6♣ 
+J♦ Q♦ K♦ A♦ 
+10♠ J♠ Q♠ K♠ A♠ 
+4♥ 5♥ 6♥ 7♥ 8♥ 
+5♠ 6♠ 7♠ 
+8♣ 9♣ 10♣ J♣ 
+10♥ J♥ Q♥ K♥ A♥ 
+2♥ 3♥ 4♥ 
+4♦ 5♦ 6♦ 7♦ 8♦ 9♦ 
+2♠ 3♠ 4♠ 
+6♥ 7♥ 8♥ 
+
+MÃO: 2♥ J♥ 3♦ 3♦ 4♦ 7♦ 8♦ K♦ A♦ 3♣ K♣ 6♠ 7♠ 9♠ K♠ 
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+DISCARD A♦
+MÃO: 2♥ J♥ 3♦ 3♦ 4♦ 7♦ 8♦ K♦ 3♣ K♣ 6♠ 7♠ 9♠ K♠ 
+Linha: [ A♦ ]
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 5
+Linha: DISCARD Q♦
+LIXO:Q♦
+Linha: p2.b
+TOTAL LIXO:
+A♦ Q♦ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 7♣ 
+9♦ 10♦ J♦ 
+2♣ 3♣ 4♣ 5♣ 6♣ 
+J♦ Q♦ K♦ A♦ 
+10♠ J♠ Q♠ K♠ A♠ 
+4♥ 5♥ 6♥ 7♥ 8♥ 
+5♠ 6♠ 7♠ 
+8♣ 9♣ 10♣ J♣ 
+10♥ J♥ Q♥ K♥ A♥ 
+2♥ 3♥ 4♥ 
+4♦ 5♦ 6♦ 7♦ 8♦ 9♦ 
+2♠ 3♠ 4♠ 
+6♥ 7♥ 8♥ 
+
+MÃO: 2♥ J♥ 3♦ 3♦ 4♦ 7♦ 8♦ K♦ 3♣ K♣ 6♠ 7♠ 9♠ K♠ 
+GET_STOCK
+PUXADA:10♦
+DISCARD 10♦
+MÃO: 2♥ J♥ 3♦ 3♦ 4♦ 7♦ 8♦ K♦ 3♣ K♣ 6♠ 7♠ 9♠ K♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 3
+Linha: DISCARD A♣
+LIXO:A♣
+Linha: p2.b
+TOTAL LIXO:
+A♦ Q♦ 10♦ A♣ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 7♣ 
+9♦ 10♦ J♦ 
+2♣ 3♣ 4♣ 5♣ 6♣ 
+J♦ Q♦ K♦ A♦ 
+10♠ J♠ Q♠ K♠ A♠ 
+4♥ 5♥ 6♥ 7♥ 8♥ 
+5♠ 6♠ 7♠ 
+8♣ 9♣ 10♣ J♣ 
+10♥ J♥ Q♥ K♥ A♥ 
+2♥ 3♥ 4♥ 
+4♦ 5♦ 6♦ 7♦ 8♦ 9♦ 
+2♠ 3♠ 4♠ 
+6♥ 7♥ 8♥ 
+
+MÃO: 2♥ J♥ 3♦ 3♦ 4♦ 7♦ 8♦ K♦ 3♣ K♣ 6♠ 7♠ 9♠ K♠ 
+GET_STOCK
+PUXADA:Q♣
+DISCARD Q♣
+MÃO: 2♥ J♥ 3♦ 3♦ 4♦ 7♦ 8♦ K♦ 3♣ K♣ 6♠ 7♠ 9♠ K♠ 
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 1
+Linha: DISCARD 5♦
+LIXO:5♦
+Linha: p2.b
+TOTAL LIXO:
+A♦ Q♦ 10♦ A♣ Q♣ 5♦ 
+
+GET_DISCARD [ 3♦ 4♦ ]
+NOSSA MESA:3♦
+NOSSA MESA:4♦
+NOSSA MESA:5♦
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 7♣ 
+9♦ 10♦ J♦ 
+2♣ 3♣ 4♣ 5♣ 6♣ 
+J♦ Q♦ K♦ A♦ 
+10♠ J♠ Q♠ K♠ A♠ 
+4♥ 5♥ 6♥ 7♥ 8♥ 
+5♠ 6♠ 7♠ 
+8♣ 9♣ 10♣ J♣ 
+10♥ J♥ Q♥ K♥ A♥ 
+2♥ 3♥ 4♥ 
+4♦ 5♦ 6♦ 7♦ 8♦ 9♦ 
+2♠ 3♠ 4♠ 
+6♥ 7♥ 8♥ 
+3♦ 4♦ 5♦ 
+
+MÃO: 2♥ J♥ 3♦ 7♦ 8♦ 10♦ Q♦ K♦ A♦ 3♣ Q♣ K♣ A♣ 6♠ 7♠ 9♠ K♠ 
+MELD_NEW [ Q♦ K♦ A♦ ]
+NOSSA MESA:Q♦
+NOSSA MESA:K♦
+NOSSA MESA:A♦
+MELD_JOIN 14 [ 10♦ ]
+MELD_JOIN 11 [ Q♣ ]
+MELD_JOIN 11 [ K♣ ]
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+----(3) CARTAS MELD JOIN Z: 1
+MELD_JOIN 6 [ A♣ ]
+DISCARD 3♣
+MÃO: 2♥ J♥ 3♦ 7♦ 8♦ 6♠ 7♠ 9♠ K♠ 
+Linha: [ A♦ Q♦ 10♦ A♣ Q♣ ]
+Linha: p1.bot
+Linha: GET_STOCK
+OPONENTE DEU GET STOCK: 0
+Linha: DISCARD 5♥
+LIXO:5♥
+Linha: p2.b
+TOTAL LIXO:
+3♣ 5♥ 
+
+====== TOTAL NOSSA MESA ======:
+8♠ 9♠ 10♠ J♠ 
+Q♥ K♥ A♥ 
+A♠ 2♠ 3♠ 4♠ 
+7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+4♣ 5♣ 6♣ 7♣ 
+9♦ 10♦ J♦ 
+A♣ 2♣ 3♣ 4♣ 5♣ 6♣ 
+J♦ Q♦ K♦ A♦ 
+10♠ J♠ Q♠ K♠ A♠ 
+4♥ 5♥ 6♥ 7♥ 8♥ 
+5♠ 6♠ 7♠ 
+8♣ 9♣ 10♣ J♣ Q♣ K♣ 
+10♥ J♥ Q♥ K♥ A♥ 
+2♥ 3♥ 4♥ 
+4♦ 5♦ 6♦ 7♦ 8♦ 9♦ 10♦ 
+2♠ 3♠ 4♠ 
+6♥ 7♥ 8♥ 
+3♦ 4♦ 5♦ 
+Q♦ K♦ A♦ 
+
+MÃO: 2♥ J♥ 3♦ 7♦ 8♦ 6♠ 7♠ 9♠ K♠ 
+GET_STOCK
